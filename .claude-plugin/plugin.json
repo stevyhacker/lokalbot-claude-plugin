@@ -24,6 +24,7 @@
   "documentationUrl": "https://github.com/stevyhacker/lokalbot/blob/master/Distribution/claude-plugin/README.md",
   "supportUrl": "https://www.lokalbot.com/support",
   "privacyPolicyUrl": "https://www.lokalbot.com/privacy",
+  "termsOfServiceUrl": "https://www.lokalbot.com/terms",
   "mcpServers": {
     "lokalbot": {
       "command": "lokalbot-cli",
