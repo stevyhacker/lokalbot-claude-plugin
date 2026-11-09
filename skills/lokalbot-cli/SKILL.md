@@ -123,8 +123,7 @@ Cite files by path. Open one yourself only when the passage isn't enough, and ne
 
 ```bash
 lokalbot-cli path
-lokalbot-cli path latest
-cd "$(lokalbot-cli path latest)"
+lokalbot-cli path latest                         # the newest meeting's folder
 ```
 
 ## Settings and status
